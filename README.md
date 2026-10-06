@@ -5,9 +5,10 @@
 <img src="titulos/sobre-mi.svg" alt="SOBRE MÍ" width="100%">
 
 ```
-- Estudiante de desarrollo de aplicaciones móviles.
+- Cursando FP Superior DAM
+- Programación Multimedia y Dispositivos Móviles.
 - Aprendiendo Android con Kotlin, paso a paso.
-- Un programa de mil líneas empieza por una.
+- Me gusta crear apps que resuelvan problemas reales.
 ```
 
 <img src="titulos/aprendiendo.svg" alt="APRENDIENDO" width="100%">
