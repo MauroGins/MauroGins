@@ -35,5 +35,5 @@
 <img src="titulos/contacto.svg" alt="CONTACTO" width="100%">
 
 ```
-correo: tu-correo@ejemplo.com
+correo: ginskdev@gmail.com
 ```
