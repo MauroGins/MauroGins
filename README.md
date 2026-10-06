@@ -6,7 +6,7 @@
 
 ```
 - Cursando FP Superior DAM
-- Programación Multimedia y Dispositivos Móviles.
+- Módulo de Programación Multimedia y Dispositivos Móviles.
 - Aprendiendo Android con Kotlin, paso a paso.
 - Me gusta crear apps que resuelvan problemas reales.
 ```
